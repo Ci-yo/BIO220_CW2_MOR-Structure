@@ -1,0 +1,3 @@
+model,tm_score,rmsd_angstrom,aligned_residues,reference_residues,coverage_percent,state_note
+AlphaFold,0.96,1.43,284,367,77.4,inactive_or_intermediate_like
+SWISS-MODEL,1.00,0.40,287,367,78.2,active_like

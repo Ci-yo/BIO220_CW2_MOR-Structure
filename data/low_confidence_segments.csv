@@ -1,0 +1,8 @@
+﻿chain,start,end,length,avg_score,model
+A,1,61,61,34.04,AlphaFold (pLDDT < 50)
+A,358,359,2,48.19,AlphaFold (pLDDT < 50)
+A,361,361,1,48.88,AlphaFold (pLDDT < 50)
+A,376,376,1,49.31,AlphaFold (pLDDT < 50)
+A,380,380,1,47.12,AlphaFold (pLDDT < 50)
+A,396,400,5,44.07,AlphaFold (pLDDT < 50)
+F,352,353,2,0.32,SWISS-MODEL (QMEANDisCo < 0.5)
